@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K3F8a7KRi/PCtU1ekfO0jtFPXODwIo2eXTPP6opWY3g=",
+  "Source": "addressbook-backend",
+  "BasePath": "_content/addressbook-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
